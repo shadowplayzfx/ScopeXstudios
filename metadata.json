@@ -1,0 +1,6 @@
+{
+  "name": "SCOPE-X",
+  "description": "AI-powered creation studio with universal assistant control, multi-model inference, voice interaction, live app builder, research, media player, writer, image studio, and document studio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
